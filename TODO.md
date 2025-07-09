@@ -13,3 +13,8 @@ This file contains planned updates and future improvements for the project.
 - [ ] Add an in-app help section or usage guide
 
 ---
+## 🔮 Potential Updates (Optional or Future Consideration)
+
+- [ ] Add multilingual support
+- [ ] Rewrite the project using Java
+- [ ] Create installable versions for Windows (.exe) and Android (.apk)
