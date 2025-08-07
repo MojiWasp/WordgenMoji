@@ -66,7 +66,7 @@ tk.Button(
     root,
     text="start Wordlist",
     command=generate,
-    bg="pink",
+    bg="#FA82AE",
     fg="black"
 ).pack(pady=20)
 
