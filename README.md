@@ -26,7 +26,7 @@ cd WordgenMoji
 
 Run the tool:
 
-python wordgenmoji.py
+python3 wordgenmoji.py
 
 Usage
 
