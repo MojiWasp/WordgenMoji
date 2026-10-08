@@ -1,5 +1,5 @@
 ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌
-‌‌‌‌‌‌‌ ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌WordgenMoji‌‌‌
+‌‌‌‌‌‌‌ ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌WordgenMoji‌‌‌‌
 
 ‌‌
 A powerful and customizable wordlist generator for brute-force attacks.
